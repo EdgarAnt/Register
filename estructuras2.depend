@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629428973 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\estructuras2\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+
